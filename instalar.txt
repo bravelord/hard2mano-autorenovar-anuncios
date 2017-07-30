@@ -1,0 +1,5 @@
+para instalarlo necesario tener python 2.7
+pip install -U selenium
+pip install beautifulsoup4
+
+Puedes realizar cron job cada 24h
